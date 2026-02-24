@@ -23,8 +23,10 @@ php artisan sail:install
 ./vendor/bin/sail artisan:migrate
 ```
 
+#### Vite Assets
 
-./vendor/bin/sail artisan:migrate
-./vendor/bin/sail artisan project:init
+```propertias
 npm install
 npm run build
+```
+
