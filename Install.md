@@ -4,10 +4,25 @@
 composer require laravel/sail --dev
 ```
 
+#### Install
 
+```properties
 php artisan sail:install
+```
+
+#### Sail Down
+
+```properties
 ./vendor/bin/sail down
+```
+
+#### Sail Up
+
+```propertias
 ./vendor/bin/sail up -d
+```
+
+
 ./vendor/bin/sail artisan:migrate
 ./vendor/bin/sail artisan project:init
 npm install
