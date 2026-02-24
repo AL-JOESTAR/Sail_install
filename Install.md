@@ -1,4 +1,10 @@
+#### Create New Project
+
+```properties
 composer require laravel/sail --dev
+```
+
+
 php artisan sail:install
 ./vendor/bin/sail down
 ./vendor/bin/sail up -d
