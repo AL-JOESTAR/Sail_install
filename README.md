@@ -10,6 +10,8 @@ composer require laravel/sail --dev
 php artisan sail:install
 ```
 
+Pilih database
+
 #### Sail Down
 
 ```properties
