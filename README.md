@@ -22,6 +22,11 @@ Pilih database
 
 ```propertias
 ./vendor/bin/sail up -d
+```
+
+### Migrate
+
+```propertias
 ./vendor/bin/sail artisan migrate
 ```
 
